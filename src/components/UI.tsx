@@ -73,7 +73,7 @@ export function ProjectShowcase({ dark = false, showButton = true }: { dark?: bo
         </div>
         <div className="showcase-heading-right">
           <SectionNumber value={dark ? '08' : '02'} />
-          {showButton && <ActionLink to="/made-by-yellow/" label="Made by The Shadow" variant={dark ? 'light' : 'dark'} />}
+          {showButton && <ActionLink to="/made-by-shadow/" label="Made by The Shadow" variant={dark ? 'light' : 'dark'} />}
         </div>
       </div>
       <div className="showcase-grid">
@@ -104,10 +104,10 @@ function ShowcaseCard({ project, index }: { project: Project; index: number }) {
         </div>
         <div className="showcase-title small-title">{project.title}</div>
         <div className="project-divider" />
-        <div className="project-meta">
+        {/* <div className="project-meta">
           <span><small>Views</small>{project.views}</span>
           <span><small>Delivery time</small>{project.delivery}</span>
-        </div>
+        </div> */}
       </Link>
     </motion.div>
   )

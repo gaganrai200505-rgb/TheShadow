@@ -8,7 +8,7 @@ export default function ProjectDetail() {
   const { slug } = useParams()
   const project = getProject(slug)
   useEffect(() => { if (project) document.title = `${project.title} — The Shadow` }, [project])
-  if (!project) return <Navigate to="/made-by-yellow/" replace />
+  if (!project) return <Navigate to="/made-by-shadow/" replace />
   const index = projects.findIndex((item) => item.slug === project.slug)
   const next = projects[(index + 1) % projects.length]
   return (

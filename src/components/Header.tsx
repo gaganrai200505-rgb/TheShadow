@@ -7,7 +7,7 @@ import { ActionLink } from './UI'
 
 const navigation = [
   { to: '/', label: 'Home' },
-  { to: '/made-by-yellow/', label: 'Made by The Shadow' },
+  { to: '/made-by-shadow/', label: 'Made by The Shadow' },
   { to: '/how-we-roll/', label: 'How we roll' },
 ]
 
@@ -108,7 +108,7 @@ export function Header() {
               ))}
             </nav>
             <div className="mobile-menu-contact">
-              <div><strong>Office</strong><p>Eindhoven · Dubai · Miami<br />Working worldwide</p></div>
+              <div><strong>Office</strong><p>Mysore<br />Working worldwide</p></div>
               <div>
                 <strong>Contact</strong>
                 <p>

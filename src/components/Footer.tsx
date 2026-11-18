@@ -9,7 +9,7 @@ export function Footer() {
         <div className="footer-cols">
           <div className="footer-col">
             <strong>Office</strong>
-            <p>Eindhoven · Dubai · Miami<br />Working worldwide</p>
+            <p>Mysore<br />Working worldwide</p>
           </div>
           <div className="footer-col">
             <strong>Contact</strong>
@@ -20,7 +20,7 @@ export function Footer() {
           </div>
           <div className="footer-col footer-sitemap">
             <strong>Sitemap</strong>
-            <p><Link to="/made-by-yellow/">Made by The Shadow</Link><br /><Link to="/how-we-roll/">How we roll</Link><br /><Link to="/connect/">Connect</Link></p>
+            <p><Link to="/made-by-shadow/">Made by The Shadow</Link><br /><Link to="/how-we-roll/">How we roll</Link><br /><Link to="/connect/">Connect</Link></p>
           </div>
           <div className="footer-col footer-movement">
             <strong><Spark /> Join the movement</strong>

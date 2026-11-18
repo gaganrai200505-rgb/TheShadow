@@ -88,11 +88,11 @@ export default function Connect() {
         <div className="contact-grid">
           <SectionNumber value="01" />
           <div className="contact-details">
-            <div className="time-zones">
+            {/* <div className="time-zones">
               <div><span>Eindhoven (CET)</span><time>{times['Europe/Amsterdam']}</time></div>
               <div><span>Dubai (GMT+4)</span><time>{times['Asia/Dubai']}</time></div>
               <div><span>Miami (GMT-5)</span><time>{times['America/New_York']}</time></div>
-            </div>
+            </div> */}
             <p className="text medium">How to connect</p>
             <p className="text contact-email"><a href="mailto:theshadowcreativeagency@gmail.com">theshadowcreativeagency@gmail.com</a></p>
             <p className="text contact-phone"><a href="tel:+916366583516">+91 6366583516</a></p>
@@ -132,7 +132,7 @@ export default function Connect() {
         </div>
         <Reveal className="social-media-strip">
           {projects.slice(4, 10).map((project) => (
-            <a href="https://www.instagram.com/theshadowcreativeagency?dlrf=MWtpYW56MzZ0djM1&utm_source=qr" target="_blank" rel="noreferrer" key={project.slug} aria-label={`Instagram — ${project.title}`}>
+            <a href="https://www.instagram.com/theshadowcreativeagency" target="_blank" rel="noreferrer" key={project.slug} aria-label={`Instagram — ${project.title}`}>
               <img src={project.poster} alt={project.title} loading="lazy" />
               <Instagram />
             </a>

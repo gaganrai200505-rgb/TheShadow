@@ -7,7 +7,7 @@ import { clientLogos } from '../data/projects'
 
 const heroVideo = 'https://player.vimeo.com/progressive_redirect/playback/1202811863/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&signature=786fcae5a0412da3b71c4d9157a01458bfc90d94fe4c3fd6560b5341b91f3e19'
 const heroPoster = 'https://houseofyellow.nl/wp-content/uploads/2025/10/video-placeholder-showreel.jpg'
-const phoneVideo = '/videos/maara-restro-bar.mp4'
+const phoneVideo = '/videos/corporate-commercials.mp4'
 const phonePoster = '/posters/maara-restro-bar.jpg'
 
 export default function Home() {
@@ -35,7 +35,7 @@ export default function Home() {
           <div className="about-grid">
             <div className="text small medium">Who are we?</div>
             <div className="about-statement">
-              <AnimatedTitle className="smaller">We are SHADOW — a creative production agency driven by ideas, storytelling and visual craft. From cinematic films and photography to brand campaigns and creative productions, we turn ideas into powerful visual experiences. Every frame, every detail and every story is crafted with intention, from the first spark of an idea to the final delivery.</AnimatedTitle>
+              <AnimatedTitle className="smaller">We are SHADOW - a creative production agency driven by ideas, storytelling and visual craft. From cinematic films and photography to brand campaigns and creative productions, we turn ideas into powerful visual experiences. Every frame, every detail and every story is crafted with intention, from the first spark of an idea to the final delivery.</AnimatedTitle>
               <Reveal className="small-title" delay={0.15}>Looking for a creative partner that thinks differently and creates boldly? Let’s make it happen.</Reveal>
               <Reveal className="button-row" delay={0.25}>
                 <ActionLink to="/connect/" label="Connect" variant="dark" />
@@ -120,6 +120,7 @@ function MobileShowcase() {
 }
 
 type ServiceMedia = { src: string; poster: string; image?: boolean }
+const photographyPath = (filename: string) => `/photography/${encodeURIComponent(filename)}`
 const services: { title: string; description: string; index: string; media: ServiceMedia[] }[] = [
   {
     title: 'Video that moves beyond the screen', index: '05',
@@ -135,10 +136,10 @@ const services: { title: string; description: string; index: string; media: Serv
     title: 'Photography that captures more than moments', index: '06',
     description: 'From campaign shoots to brand imagery, we create photography that feels authentic, refined, and built to strengthen the visual identity behind every brand.',
     media: [
-      { src: '', poster: 'https://houseofyellow.nl/wp-content/uploads/2026/05/oceanco-400x533.jpg', image: true },
-      { src: '', poster: 'https://houseofyellow.nl/wp-content/uploads/2026/06/6-1-400x600.jpg', image: true },
-      { src: '', poster: 'https://houseofyellow.nl/wp-content/uploads/2026/05/ring-400x600.jpg', image: true },
-      { src: '', poster: 'https://houseofyellow.nl/wp-content/uploads/2026/05/reeses-400x533.jpg', image: true },
+      { src: '', poster: photographyPath('1.jpeg'), image: true },
+      { src: '', poster: photographyPath('2.JPG'), image: true },
+      { src: '', poster: photographyPath('3.jpg'), image: true },
+      { src: '', poster: photographyPath('4.jpeg'), image: true },
     ],
   },
 ]

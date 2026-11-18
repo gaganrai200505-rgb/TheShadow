@@ -14,8 +14,8 @@ export default function App() {
       <SiteLayout>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/made-by-yellow/" element={<Work />} />
-          <Route path="/made-by-the-shadow/" element={<Navigate to="/made-by-yellow/" replace />} />
+          <Route path="/made-by-shadow/" element={<Work />} />
+          <Route path="/made-by-the-shadow/" element={<Navigate to="/made-by-shadow/" replace />} />
           <Route path="/how-we-roll/" element={<Process />} />
           <Route path="/connect/" element={<Connect />} />
           <Route path="/project/:slug/" element={<ProjectDetail />} />
