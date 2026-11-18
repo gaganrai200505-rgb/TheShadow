@@ -1,0 +1,437 @@
+[
+  {
+    "slug": "corporate-commercials",
+    "title": "Corporate Commercials",
+    "categories": [
+      "commercials",
+      "corporate"
+    ],
+    "orientation": "portrait",
+    "index": 1,
+    "speed": 5,
+    "video": "/videos/corporate-commercials.mp4",
+    "poster": "/posters/corporate-commercials.jpg",
+    "year": "'26",
+    "industry": "Corporate & Commercials",
+    "categoryLabel": "Commercials",
+    "views": "4.800.000",
+    "delivery": "3 days turnaround"
+  },
+  {
+    "slug": "maara-restropub",
+    "title": "Maara Restopub — Nightlife & Cocktails",
+    "categories": [
+      "commercials",
+      "social-campaigns"
+    ],
+    "orientation": "portrait",
+    "index": 2,
+    "speed": 2,
+    "video": "/videos/maara-restro-bar.mp4",
+    "poster": "/posters/maara-restro-bar.jpg",
+    "year": "'26",
+    "industry": "Hospitality & Nightlife",
+    "categoryLabel": "Commercials",
+    "views": "2.100.000",
+    "delivery": "1 shoot day + 2 days post"
+  },
+  {
+    "slug": "artist",
+    "title": "Artist",
+    "categories": [
+      "artists",
+      "social-campaigns"
+    ],
+    "orientation": "portrait",
+    "index": 3,
+    "speed": 2,
+    "video": "/videos/artist-showcase.mp4",
+    "poster": "/posters/artist-showcase.jpg",
+    "year": "'26",
+    "industry": "Music & Performing Arts",
+    "categoryLabel": "Artists",
+    "views": "2.900.000",
+    "delivery": "2 days turnaround"
+  },
+  {
+    "slug": "car-delivery-reveal",
+    "title": "Car Delivery — Premium Reveal",
+    "categories": [
+      "commercials",
+      "launches"
+    ],
+    "orientation": "portrait",
+    "index": 4,
+    "speed": 5,
+    "video": "/videos/car-delivery.mp4",
+    "poster": "/posters/car-delivery.jpg",
+    "year": "'26",
+    "industry": "Automotive & Luxury",
+    "categoryLabel": "Commercials",
+    "views": "3.400.000",
+    "delivery": "3 days turnaround"
+  },
+  {
+    "slug": "kaze-bangalore-sky-lounge",
+    "title": "Kaze — Sky High Aftermovie",
+    "categories": [
+      "events",
+      "aftermovies"
+    ],
+    "orientation": "portrait",
+    "index": 5,
+    "speed": 3,
+    "video": "/videos/kaze-bangalore.mp4",
+    "poster": "/posters/kaze-bangalore.jpg",
+    "year": "'26",
+    "industry": "Luxury Lounges & Events",
+    "categoryLabel": "Aftermovies",
+    "views": "4.200.000",
+    "delivery": "Same-day event coverage"
+  },
+  {
+    "slug": "maara-culinary-craft",
+    "title": "Maara — Culinary Craft",
+    "categories": [
+      "commercials",
+      "social-campaigns"
+    ],
+    "orientation": "portrait",
+    "index": 6,
+    "speed": 6,
+    "video": "/videos/maara-food.mp4",
+    "poster": "/posters/maara-food.jpg",
+    "year": "'26",
+    "industry": "Food & Beverage",
+    "categoryLabel": "Commercials",
+    "views": "1.850.000",
+    "delivery": "1 day production"
+  },
+  {
+    "slug": "mercure-sundowner",
+    "title": "Mercure — Premium Sundowner Mysore",
+    "categories": [
+      "events",
+      "commercials"
+    ],
+    "orientation": "portrait",
+    "index": 7,
+    "speed": 4,
+    "video": "/videos/mercure-sunset.mp4",
+    "poster": "/posters/mercure-sunset.jpg",
+    "year": "'26",
+    "industry": "Hospitality & Resorts",
+    "categoryLabel": "Events",
+    "views": "2.750.000",
+    "delivery": "2 days turn"
+  },
+  {
+    "slug": "wars-djs-championship",
+    "title": "Wars DJs — Championship Aftermovie",
+    "categories": [
+      "events",
+      "artists",
+      "aftermovies"
+    ],
+    "orientation": "portrait",
+    "index": 8,
+    "speed": 5,
+    "video": "/videos/wars-djs.mp4",
+    "poster": "/posters/wars-djs.jpg",
+    "year": "'26",
+    "industry": "Music & Sound Culture",
+    "categoryLabel": "Artists",
+    "views": "3.900.000",
+    "delivery": "Live multi-camera cut"
+  },
+  {
+    "slug": "holi-festival-of-colours",
+    "title": "Holi Festival — Festival of Colours",
+    "categories": [
+      "events",
+      "aftermovies",
+      "social-campaigns"
+    ],
+    "orientation": "portrait",
+    "index": 9,
+    "speed": 2,
+    "video": "/videos/holi-festival.mp4",
+    "poster": "/posters/holi-festival.jpg",
+    "year": "'26",
+    "industry": "Culture & Entertainment",
+    "categoryLabel": "Events",
+    "views": "5.100.000",
+    "delivery": "High-speed cinema capture"
+  },
+  {
+    "slug": "payana-the-journey",
+    "title": "Payana — The Heritage Journey",
+    "categories": [
+      "corporate",
+      "commercials"
+    ],
+    "orientation": "portrait",
+    "index": 10,
+    "speed": 3,
+    "video": "/videos/payana-journey.mp4",
+    "poster": "/posters/payana-journey.jpg",
+    "year": "'26",
+    "industry": "Heritage & Travel",
+    "categoryLabel": "Corporate",
+    "views": "1.600.000",
+    "delivery": "1 week documentary rollout"
+  },
+  {
+    "slug": "hari-govinda-project",
+    "title": "Hari Govinda — Brand Narrative",
+    "categories": [
+      "corporate",
+      "commercials"
+    ],
+    "orientation": "portrait",
+    "index": 11,
+    "speed": 4,
+    "video": "/videos/hari-govinda.mp4",
+    "poster": "/posters/hari-govinda.jpg",
+    "year": "'26",
+    "industry": "Brand Campaign",
+    "categoryLabel": "Commercials",
+    "views": "2.400.000",
+    "delivery": "Creative concept + film"
+  },
+  {
+    "slug": "mcc-championship-final",
+    "title": "MCC — The Grand Final",
+    "categories": [
+      "events",
+      "commercials"
+    ],
+    "orientation": "portrait",
+    "index": 12,
+    "speed": 5,
+    "video": "/videos/mcc-final.mp4",
+    "poster": "/posters/mcc-final.jpg",
+    "year": "'26",
+    "industry": "Sports & Youth Culture",
+    "categoryLabel": "Events",
+    "views": "3.100.000",
+    "delivery": "Live match cinematic edit"
+  },
+  {
+    "slug": "project-two-creative-spot",
+    "title": "City Vibes — Brand Spotlight",
+    "categories": [
+      "commercials",
+      "social-campaigns"
+    ],
+    "orientation": "portrait",
+    "index": 13,
+    "speed": 3,
+    "video": "/videos/project-two.mp4",
+    "poster": "/posters/project-two.jpg",
+    "year": "'26",
+    "industry": "Lifestyle & Retail",
+    "categoryLabel": "Commercials",
+    "views": "1.950.000",
+    "delivery": "Rapid social turnaround"
+  },
+  {
+    "slug": "javaji-brand-campaign",
+    "title": "Javaji — Brand Campaign Film",
+    "categories": [
+      "commercials",
+      "social-campaigns"
+    ],
+    "orientation": "portrait",
+    "index": 14,
+    "speed": 4,
+    "video": "/videos/javaji-campaign.mp4",
+    "poster": "/posters/javaji-campaign.jpg",
+    "year": "'26",
+    "industry": "Fashion & Retail",
+    "categoryLabel": "Commercials",
+    "views": "4.500.000",
+    "delivery": "Full commercial production"
+  },
+  {
+    "slug": "javaji-editorial-collection",
+    "title": "Javaji — Editorial Motion Collection",
+    "categories": [
+      "commercials",
+      "launches"
+    ],
+    "orientation": "portrait",
+    "index": 15,
+    "speed": 2,
+    "video": "/videos/javaji-editorial.mp4",
+    "poster": "/posters/javaji-editorial.jpg",
+    "year": "'26",
+    "industry": "Fashion & Apparel",
+    "categoryLabel": "Commercials",
+    "views": "2.300.000",
+    "delivery": "Studio shoot + post"
+  },
+  {
+    "slug": "javaji-seasonal-spot",
+    "title": "Javaji — Seasonal Campaign Spot",
+    "categories": [
+      "commercials",
+      "social-campaigns"
+    ],
+    "orientation": "portrait",
+    "index": 16,
+    "speed": 5,
+    "video": "/videos/javaji-spot.mp4",
+    "poster": "/posters/javaji-spot.jpg",
+    "year": "'26",
+    "industry": "Fashion & Apparel",
+    "categoryLabel": "Commercials",
+    "views": "1.700.000",
+    "delivery": "Social-first cut"
+  },
+  {
+    "slug": "studio-motion-series-01",
+    "title": "Studio Motion Series — Part 01",
+    "categories": [
+      "commercials",
+      "social-campaigns"
+    ],
+    "orientation": "portrait",
+    "index": 17,
+    "speed": 3,
+    "video": "/videos/studio-motion-1.mp4",
+    "poster": "/posters/studio-motion-1.jpg",
+    "year": "'26",
+    "industry": "Creative Production",
+    "categoryLabel": "Commercials",
+    "views": "1.400.000",
+    "delivery": "2 days"
+  },
+  {
+    "slug": "studio-motion-series-02",
+    "title": "Studio Motion Series — Part 02",
+    "categories": [
+      "commercials",
+      "social-campaigns"
+    ],
+    "orientation": "portrait",
+    "index": 18,
+    "speed": 4,
+    "video": "/videos/studio-motion-2.mp4",
+    "poster": "/posters/studio-motion-2.jpg",
+    "year": "'26",
+    "industry": "Creative Production",
+    "categoryLabel": "Commercials",
+    "views": "1.800.000",
+    "delivery": "2 days"
+  },
+  {
+    "slug": "cinematic-moments",
+    "title": "Cinematic Visuals — Golden Hour",
+    "categories": [
+      "artists",
+      "commercials"
+    ],
+    "orientation": "portrait",
+    "index": 19,
+    "speed": 2,
+    "video": "/videos/cinematic-cut.mp4",
+    "poster": "/posters/cinematic-cut.jpg",
+    "year": "'26",
+    "industry": "Cinematography",
+    "categoryLabel": "Artists",
+    "views": "2.900.000",
+    "delivery": "Color graded cinema cut"
+  },
+  {
+    "slug": "urban-stories-reel-01",
+    "title": "Urban Stories — Social Series 01",
+    "categories": [
+      "social-campaigns",
+      "launches"
+    ],
+    "orientation": "portrait",
+    "index": 20,
+    "speed": 5,
+    "video": "/videos/social-reel-1.mp4",
+    "poster": "/posters/social-reel-1.jpg",
+    "year": "'26",
+    "industry": "Digital & Social Content",
+    "categoryLabel": "Social Campaigns",
+    "views": "6.200.000",
+    "delivery": "Viral reel format"
+  },
+  {
+    "slug": "urban-stories-reel-02",
+    "title": "Urban Stories — Social Series 02",
+    "categories": [
+      "social-campaigns",
+      "launches"
+    ],
+    "orientation": "portrait",
+    "index": 21,
+    "speed": 4,
+    "video": "/videos/social-reel-2.mp4",
+    "poster": "/posters/social-reel-2.jpg",
+    "year": "'26",
+    "industry": "Digital & Social Content",
+    "categoryLabel": "Social Campaigns",
+    "views": "5.400.000",
+    "delivery": "Viral reel format"
+  },
+  {
+    "slug": "behind-the-frame-01",
+    "title": "Behind the Frame — On Set 01",
+    "categories": [
+      "corporate",
+      "employer-branding"
+    ],
+    "orientation": "portrait",
+    "index": 22,
+    "speed": 3,
+    "video": "/videos/creative-capture-1.mp4",
+    "poster": "/posters/creative-capture-1.jpg",
+    "year": "'26",
+    "industry": "Production & Studio",
+    "categoryLabel": "Employer Branding",
+    "views": "980.000",
+    "delivery": "BTS capture"
+  },
+  {
+    "slug": "behind-the-frame-02",
+    "title": "Behind the Frame — On Set 02",
+    "categories": [
+      "corporate",
+      "employer-branding"
+    ],
+    "orientation": "portrait",
+    "index": 23,
+    "speed": 5,
+    "video": "/videos/creative-capture-2.mp4",
+    "poster": "/posters/creative-capture-2.jpg",
+    "year": "'26",
+    "industry": "Production & Studio",
+    "categoryLabel": "Employer Branding",
+    "views": "1.100.000",
+    "delivery": "BTS capture"
+  },
+  {
+    "slug": "the-shadow-showreel-26",
+    "title": "The Shadow — Showreel '26",
+    "categories": [
+      "commercials",
+      "launches",
+      "corporate"
+    ],
+    "orientation": "landscape",
+    "index": 24,
+    "speed": 6,
+    "video": "/videos/hero-showreel.mp4",
+    "poster": "/posters/hero-showreel.jpg",
+    "year": "'26",
+    "industry": "Full Production Showreel",
+    "categoryLabel": "Commercials",
+    "views": "8.500.000",
+    "delivery": "Master agency reel"
+  }
+]
