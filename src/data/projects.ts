@@ -37,6 +37,8 @@ export const clientLogos = [
   '/logos/logo-5.png',
   '/logos/logo-6.png',
   '/logos/logo-7.png',
+  '/logos/logo-8.png',
+  '/logos/logo-9.png'
 ]
 
 export const getProject = (slug?: string) => projects.find((project) => project.slug === slug)

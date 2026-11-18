@@ -9,7 +9,7 @@
     "orientation": "portrait",
     "index": 1,
     "speed": 5,
-    "video": "/videos/corporate-commercials.mp4",
+    "video": "/videos/clubmahendra.mp4",
     "poster": "/posters/corporate-commercials.jpg",
     "year": "'26",
     "industry": "Corporate & Commercials",
@@ -19,7 +19,7 @@
   },
   {
     "slug": "maara-restropub",
-    "title": "Maara Restopub — Nightlife & Cocktails",
+    "title": "Nightlife & Cocktails",
     "categories": [
       "commercials",
       "social-campaigns"
